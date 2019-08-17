@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Daytrackr</string>
+    <string name="action_settings">Settings</string>
+    <string name="mood">Mood</string>
+    <string name="stress">Stress</string>
+    <string name="eat">Eating Habits</string>
+    <string name="sleep">Sleep</string>
+    <string name="ex">Exercise Level</string>
+    <string name="note">Notes</string>
+    <string name="save">Save</string>
+    <string name="date_picker_title">Day</string>
+    <string name="date">Date</string>
+
+</resources>
